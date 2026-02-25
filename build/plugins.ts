@@ -1,6 +1,7 @@
 import Vue from '@vitejs/plugin-vue';
 import VueJsx from '@vitejs/plugin-vue-jsx';
 import VueDevTools from 'vite-plugin-vue-devtools';
+import UnoCss from 'unocss/vite';
 import AutoImport from 'unplugin-auto-import/vite';
 import Components from 'unplugin-vue-components/vite';
 import VueRouter from 'vue-router/vite';
@@ -25,5 +26,6 @@ export function createVitePlugins() {
     Vue(),
     VueJsx(),
     VueDevTools(),
+    UnoCss(),
   ];
 }
