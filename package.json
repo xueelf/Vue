@@ -9,6 +9,7 @@
     "build-only": "vite build",
     "type-check": "vue-tsc --build",
     "lint": "eslint . --fix --cache",
+    "format": "prettier --write --experimental-cli src/",
   },
   "dependencies": {
     "pinia": "^3.0.4",
@@ -26,6 +27,7 @@
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-vue": "^10.8.0",
     "npm-run-all2": "^8.0.4",
+    "prettier": "^3.8.1",
     "typescript": "^5.9.3",
     "unplugin-auto-import": "^21.0.0",
     "unplugin-vue-components": "^31.0.0",
