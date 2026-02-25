@@ -4,17 +4,17 @@ An out-of-the-box Vue 3 development template, pre-configured with Vite, TypeScri
 
 ## Features
 
-- ![Vue](https://img.shields.io/badge/Vue-^3.5-4FC08D?style=flat-square&logo=vue.js&logoColor=4FC08D&labelColor=fafafa) Progressive JavaScript framework
-- ![Vite](https://img.shields.io/badge/Vite-^7.3-646CFF?style=flat-square&logo=vite&logoColor=646CFF&labelColor=fafafa) Next Generation Frontend Tooling
-- ![TypeScript](https://img.shields.io/badge/TypeScript-^5-3178C6?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=fafafa) Strict type checking with modern configuration
-- ![Pinia](https://img.shields.io/badge/Pinia-^3.0-F6D365?style=flat-square&logo=pinia&logoColor=F6D365&labelColor=fafafa) Intuitive, type safe, light and flexible Store for Vue
-- ![Vue Router](https://img.shields.io/badge/Vue_Router-^5.0-4FC08D?style=flat-square&logo=vue.js&logoColor=4FC08D&labelColor=fafafa) The official router for Vue.js
-- ![UnoCSS](https://img.shields.io/badge/UnoCSS-latest-333333?style=flat-square&logo=unocss&logoColor=333333&labelColor=fafafa) The instant on-demand atomic CSS engine
-- ![ESLint](https://img.shields.io/badge/ESLint-latest-4B32C3?style=flat-square&logo=eslint&logoColor=4B32C3&labelColor=fafafa) Code linting with recommended rules
-- ![Prettier](https://img.shields.io/badge/Prettier-latest-F7B93E?style=flat-square&logo=prettier&logoColor=F7B93E&labelColor=fafafa) Opinionated code formatting
+- ![Vue](https://img.shields.io/badge/Vue-^3.5.29-4FC08D?style=flat-square&logo=vue.js&logoColor=4FC08D&labelColor=fafafa) Progressive JavaScript framework
+- ![Vite](https://img.shields.io/badge/Vite-^7.3.1-646CFF?style=flat-square&logo=vite&logoColor=646CFF&labelColor=fafafa) Next Generation Frontend Tooling
+- ![TypeScript](https://img.shields.io/badge/TypeScript-^5.9.3-3178C6?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=fafafa) Strict type checking with modern configuration
+- ![Pinia](https://img.shields.io/badge/Pinia-^3.0.4-F6D365?style=flat-square&logo=pinia&logoColor=F6D365&labelColor=fafafa) Intuitive, type safe, light and flexible Store for Vue
+- ![Vue Router](https://img.shields.io/badge/Vue_Router-^5.0.3-4FC08D?style=flat-square&logo=vue.js&logoColor=4FC08D&labelColor=fafafa) The official router for Vue.js
+- ![UnoCSS](https://img.shields.io/badge/UnoCSS-^66.6.0-333333?style=flat-square&logo=unocss&logoColor=333333&labelColor=fafafa) The instant on-demand atomic CSS engine
+- ![ESLint](https://img.shields.io/badge/ESLint-^10.0.2-4B32C3?style=flat-square&logo=eslint&logoColor=4B32C3&labelColor=fafafa) Code linting with recommended rules
+- ![Prettier](https://img.shields.io/badge/Prettier-^3.8.1-F7B93E?style=flat-square&logo=prettier&logoColor=F7B93E&labelColor=fafafa) Opinionated code formatting
 - ![EditorConfig](https://img.shields.io/badge/EditorConfig-latest-E0EFEF?style=flat-square&logo=editorconfig&logoColor=E0EFEF&labelColor=fafafa) Consistent coding styles across different editors
-- ![Husky](https://img.shields.io/badge/Husky-latest-42b983?style=flat-square&logo=git&logoColor=F05032&labelColor=fafafa) Git hooks for automated checks
-- ![Commitlint](https://img.shields.io/badge/Commitlint-latest-000000?style=flat-square&logo=commitlint&logoColor=000000&labelColor=fafafa) Conventional commit message enforcement
+- ![Husky](https://img.shields.io/badge/Husky-^9.1.7-42b983?style=flat-square&logo=git&logoColor=F05032&labelColor=fafafa) Git hooks for automated checks
+- ![Commitlint](https://img.shields.io/badge/Commitlint-^20.4.2-000000?style=flat-square&logo=commitlint&logoColor=000000&labelColor=fafafa) Conventional commit message enforcement
 
 ## Requirements
 
