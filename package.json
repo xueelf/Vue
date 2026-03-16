@@ -24,7 +24,7 @@
     "@commitlint/config-conventional": "^20.4.3",
     "@tsconfig/node24": "^24.0.4",
     "@types/node": "^25.5.0",
-    "@vitejs/plugin-vue": "^6.0.4",
+    "@vitejs/plugin-vue": "^6.0.5",
     "@vitejs/plugin-vue-jsx": "^5.1.4",
     "@vue/eslint-config-typescript": "^14.7.0",
     "@vue/tsconfig": "^0.9.0",
