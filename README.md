@@ -1,4 +1,4 @@
-# Vue
+# Vue Template
 
 An out-of-the-box Vue 3 development template, pre-configured with Vite, TypeScript, Pinia, Vue Router, UnoCSS, code linting, formatting, and Git commit validation.
 
@@ -40,16 +40,15 @@ bun install
 
 ### Available Scripts
 
-| Script | Description |
-| --- | --- |
-| `dev` | Start the development server |
-| `build` | Type-check and build for production |
-| `preview` | Locally preview production build |
-| `build-only` | Build for production without type-checking |
-| `type-check` | Run type checking via vue-tsc |
-| `lint` | Run ESLint on all files |
-| `format` | Format all files with Prettier |
-| `prepare` | Set up Husky Git hooks |
+| Script      | Description                      |
+| ----------- | -------------------------------- |
+| `dev`       | Start the development server     |
+| `build`     | Build for production             |
+| `preview`   | Locally preview production build |
+| `typecheck` | Run type checking via vue-tsc    |
+| `lint`      | Run ESLint on all files          |
+| `format`    | Format all files with Prettier   |
+| `prepare`   | Set up Husky Git hooks           |
 
 ## Project Structure
 
@@ -99,6 +98,7 @@ Code style settings:
 - Semicolons enabled
 - LF line endings
 - No parentheses for single arrow function parameters
+- Sorted imports via [`prettier-plugin-sort`](https://github.com/xueelf/prettier-plugin-sort)
 
 ### EditorConfig
 
