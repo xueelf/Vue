@@ -1,4 +1,4 @@
-import type { Config } from 'prettier';
+import { type Config } from 'prettier';
 
 export default {
   tabWidth: 2,
@@ -7,4 +7,6 @@ export default {
   singleQuote: true,
   printWidth: 100,
   vueIndentScriptAndStyle: true,
+  plugins: ['prettier-plugin-sort'],
+  importOrderTypeImports: 'inline-first',
 } satisfies Config;

@@ -1,7 +1,7 @@
 <script setup lang="ts">
-definePage({
-  path: "/",
-});
+  definePage({
+    path: '/',
+  });
 </script>
 
 <template>
