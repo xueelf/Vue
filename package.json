@@ -1,18 +1,17 @@
 {
   "name": "vue-template",
   "private": true,
-  "type": "module",
   "license": "MIT",
   "author": "Yuki <admin@yuki.sh>",
+  "type": "module",
   "scripts": {
+    "build": "vite build",
     "dev": "vite",
-    "build": "run-p type-check \"build-only {@}\" --",
-    "preview": "vite preview",
-    "build-only": "vite build",
-    "type-check": "vue-tsc --build",
+    "format": "prettier --write src/",
     "lint": "eslint . --fix --cache",
-    "format": "prettier --write --experimental-cli src/",
-    "prepare": "husky"
+    "prepare": "husky",
+    "preview": "vite preview",
+    "typecheck": "vue-tsc --build"
   },
   "dependencies": {
     "pinia": "^3.0.4",
@@ -32,7 +31,6 @@
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-vue": "^10.9.1",
     "husky": "^9.1.7",
-    "npm-run-all2": "^9.0.0",
     "prettier": "^3.8.3",
     "typescript": "^6.0.3",
     "unocss": "^66.6.8",
